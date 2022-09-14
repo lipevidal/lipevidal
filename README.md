@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com front-end e back-end
 - 🌱 Estudo UI/UX design
 - 😄 Pronomes: ele/dele
-<br/>
+
 <div align="center">
   <a href="https://github.com/lipevidal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipevidal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
